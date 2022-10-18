@@ -39,7 +39,7 @@ To save the user data, I used the [CSV module](https://docs.python.org/3/library
 ## **Video project demonstration**
 ***
 
-### [My project video demonstration on youtube](https://youtu.be/NYI09DLSaJo)
+### Click on [My project video demonstration on youtube](https://youtu.be/NYI09DLSaJo) to watch.
  
 
 ## **Launch**
