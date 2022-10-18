@@ -85,11 +85,11 @@ pytest --version
  
 ## **FAQs**
 ***
-#### 1. **Why did you use edX as an example to create the program?**
-#### _I was thinking of simulating my course completion through a program._. 
+1. **Why did you use edX as an example to create the program?**
+_I was thinking of simulating my course completion through a program._. 
 
-#### 2. **How many times have you done a final project?** 
-#### _This was the first time doing a project, I know there are a lot of mistakes, but in the future, I will create a lot of projects to improve my knowledge._
+2. **How many times have you done a final project?** 
+_This was the first time doing a project, I know there are a lot of mistakes, but in the future, I will create a lot of projects to improve my knowledge._
  ---
 
 ## **About edX**
